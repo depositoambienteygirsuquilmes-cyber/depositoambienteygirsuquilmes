@@ -1,0 +1,8 @@
+{
+  "name": "Ecoparque Quilmes - Inventario",
+  "description": "Sistema de gestión de pañol para Ecoparque Quilmes GIRSU con escáner QR y asistencia IA.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}

@@ -1,0 +1,8 @@
+name = "ecoparque-quilmes"
+compatibility_date = "2024-09-01"
+pages_build_output_dir = "dist"
+
+# Opcional: Si en el futuro deseas vincular Cloudflare KV para persistencia en la nube
+# [[kv_namespaces]]
+# binding = "ECOPARQUE_KV"
+# id = "TU_KV_NAMESPACE_ID"
